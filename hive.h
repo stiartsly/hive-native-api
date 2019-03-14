@@ -409,4 +409,4 @@ HIVEAPI
 int hive_async_delete(Hive *hive, const char *path,
                       HiveResponseCallbacks *callbacks, void *context);
 
-#endif /* __HIVE_H__
+#endif /* __HIVE_H__ */
